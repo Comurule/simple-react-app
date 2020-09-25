@@ -1,0 +1,13 @@
+.login-card {
+    min-height: 60vh;
+}
+
+.registerMessage {
+    margin-top: 10vh;
+}
+
+.loginText {
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+}

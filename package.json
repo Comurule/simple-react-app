@@ -1,0 +1,42 @@
+{
+  "name": "simple-react-app",
+  "version": "1.0.0",
+  "description": "A Simple React Application with basic User login, registration portals and a dashboard",
+  "author": "Chibuike Umechukwu",
+  "license": "ISC",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comurule/simple-react-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Comurule/simple-react-app/issues"
+  },
+  "homepage": "https://github.com/Comurule/simple-react-app#readme",
+  "dependencies": {
+    "auto-bind": "^4.0.0",
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "sweetalert-react": "^0.4.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.4.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
