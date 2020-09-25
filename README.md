@@ -4,7 +4,7 @@
 ### Description ###
 
 * Quick summary:
-A Simple React Application with basic User login, registration portals and a dashboard. It is built to integrate with [A Simple Express-Mongo-Application](https://github.com/Comurule/simple-express-mongo-application).
+A Simple React Application with basic User login, registration portals and a dashboard. It is built to integrate with [A Simple Express Mongo Application](https://github.com/Comurule/simple-express-mongo-application).
 
 ### How to Setup? ###
 
